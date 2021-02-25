@@ -7,7 +7,7 @@ package gitgrupoa_66650;
 
 /**
  *
- * @author Sonia
+ * @author Adriana
  */
 public class GitgrupoA_66650 {
 
